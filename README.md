@@ -6,8 +6,8 @@ A simple easy to use shopping cart app that helps you move items into your cart 
 <br>
 <h4>How to use</h4>
 <br>
-1. Download all files
-2. Open browser to localhost:8080. and open stapi on localhost:1337
+1. Download all files<p>
+2. Open browser to localhost:8080. and open stapi on localhost:1337<p>
 <br>
 <h5>Future Improvements</h5>
 - better cleaner code
