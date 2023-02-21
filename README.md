@@ -10,8 +10,8 @@ A simple easy to use shopping cart app that helps you move items into your cart 
 2. Open browser to localhost:8080. and open stapi on localhost:1337<p>
 <br>
 <h5>Future Improvements</h5>
-- better cleaner code
-- add css
+- better cleaner code<p>
+- add css<p>
 <br>
 <h5>License</h5>
 MIT License
